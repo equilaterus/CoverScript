@@ -291,3 +291,4 @@ __pycache__/
 
 # Custom path to ignore
 /src/tools
+/tools
