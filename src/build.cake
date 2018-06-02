@@ -21,4 +21,4 @@
 /// SOFTWARE.
 
 // Load CoverScript main file
-#load "./core/main.cake"
+#load "./CoverScript/main.cake"
